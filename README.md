@@ -1,9 +1,9 @@
-*Job Request Manage  Executing Automic Objects*
+*Job Request Manager  Executing Automic Objects*
 =============
 
 
 Executing objects once or periodically
-http://github.com/Automic-Community/Job-Request-Manage--Executing-Automic-Objects
+http://github.com/Automic-Community/Job-Request-Manager--Executing-Automic-Objects
 
 <!-- List of attached files -->
 Contents of Solution Package:
