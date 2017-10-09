@@ -9,7 +9,7 @@ http://github.com/Automic-Community/Job-Request-Manager--Executing-Automic-Objec
 Contents of Solution Package:
 
 						
-								*ExecutedObjectExtended_docu.zip
+								*ExecuteObjectExtended-1.0.jar
 								
 								*ExecutedObjectExtended_docu.pdf
 								
